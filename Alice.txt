@@ -1,5 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-
 This is a change to the file for the sake of testing!
 
 Here is another line, added in order to produce a merging conflict.
